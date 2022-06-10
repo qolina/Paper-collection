@@ -24,3 +24,11 @@
   Notes: Bart-gen, WikiEvents
 * []()  
 * []()  
+
+
+## New type/label induction
+
+* [Extending Event Detection to New Types with Learning from Keywords](https://aclanthology.org/D19-5532/)  
+* [Semi-supervised New Event Type Induction and Event Detection](https://aclanthology.org/2020.emnlp-main.53/)  
+* [New Transfer Learning Techniques for Disparate Label Sets](https://aclanthology.org/P15-1046/)  
+* [Named Entity Recognition for Novel Types by Transfer Learning](https://aclanthology.org/D16-1087/)  
